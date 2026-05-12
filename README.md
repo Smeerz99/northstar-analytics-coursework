@@ -4,10 +4,7 @@ This repository contains the Google Colab notebooks, code, and outputs for the N
 
 ## Structure
 - `data/raw/` = original dataset files
-- `data/processed/` = cleaned datasets
 - `notebooks/` = Colab notebooks
-- `outputs/figures/` = charts
-- `outputs/tables/` = exported tables
 
 ## Planned notebooks
 1. `01_data_audit_python.ipynb`
